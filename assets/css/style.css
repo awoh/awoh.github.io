@@ -2531,7 +2531,7 @@ pre { margin-top: 0; margin-bottom: 0; font-family: "SFMono-Regular", Consolas, 
 .col-12 { width: 100%; }
 
 @media (min-width: 544px) { .col-sm-1 { width: 8.3333333333%; }
-  .col-sm-2 { width: 25%; }
+  .col-sm-2 { width: 100%; }
   .col-sm-3 { width: 25%; }
   .col-sm-4 { width: 33.3333333333%; }
   .col-sm-5 { width: 41.6666666667%; }
